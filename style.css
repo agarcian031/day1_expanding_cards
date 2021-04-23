@@ -57,6 +57,7 @@ body {
 
 .panel.active h3{
   opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
 }
 
 /* for small screens, only want to display 3 cards instead of 5 */
